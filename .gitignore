@@ -1,2 +1,8 @@
 #ignore api config file
 api.conf
+
+#ignore SQLite files
+*.db
+
+#ignore NFS files
+.nfs*
